@@ -1,2 +1,2 @@
-# the-new-stack
+# The new stack
 Future cloud architecture.
