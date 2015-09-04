@@ -6,4 +6,4 @@
 
 [What makes a container cluster?](http://googlecloudplatform.blogspot.tw/2015/01/what-makes-a-container-cluster.html) (Joe Beda, Google, Jan 22, 2015)
 
-![The new stack](resources/newstack.png?raw=true "The new stack")
+![The new stack](resources/newstack.png)
