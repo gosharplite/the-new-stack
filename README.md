@@ -9,3 +9,5 @@
 [What makes a container cluster?](http://googlecloudplatform.blogspot.tw/2015/01/what-makes-a-container-cluster.html) (Joe Beda, Google, Jan 22, 2015)
 
 [A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) (Brendan Burns, Google, May 4 2015)
+
+[Patterns for Composite Containers](http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html) , [video](https://www.youtube.com/watch?v=Ph3t8jIt894) (Brendan Burns, Google, June 29 2015)
