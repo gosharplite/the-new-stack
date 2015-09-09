@@ -11,3 +11,5 @@
 [A Technical Overview of Kubernetes](https://www.youtube.com/watch?v=WwBdNXt6wO4) (Brendan Burns, Google, May 4 2015)
 
 [Patterns for Composite Containers](http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html) , [video](https://www.youtube.com/watch?v=Ph3t8jIt894) (Brendan Burns, Google, June 29 2015)
+
+[Anatomy of a Modern Production Stack](http://www.eightypercent.net/post/layers-in-the-stack.html) (Joe Beda, 0xBEDA LLC, Sep 8 2015)
