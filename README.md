@@ -20,4 +20,4 @@
 
 [Stacking Up The Next Modern Platform](http://www.theplatform.net/2015/10/16/stacking-up-a-modern-platform/) ([Joe Beda](http://www.geekwire.com/2015/joseph-beda/), 0xBEDA, Oct 16 2015)
 
-[What's new in Kuberland?](https://speakerdeck.com/thockin/whats-new-in-kuberland) (Tim Hockin, Google, Nov 5 2015)
+[Kubernetes: What's New](https://speakerdeck.com/thockin) (Tim Hockin, Google, Nov 12 2015)
