@@ -2,7 +2,7 @@
 
 ![The new stack](resources/new-stack.png)
 
-[On How We Found Kubernetes](http://eng.revinate.com/2015/09/11/on-how-we-found-kubernetes/) (Bryan Stenson, Revinate, Sep 11 2015)
+[On How We Found Kubernetes](https://eng.revinate.com/2015/09/11/on-how-we-found-kubernetes.html) (Bryan Stenson, Revinate, Sep 11 2015)
 
 [Why Bother Building Cloud Native Applications?](http://engineeredweb.com/blog/2015/why-bother-with-cloud-native/?utm_content=buffer87f05&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) (Matthew Farina, HP, Sep 18 2015)
 
