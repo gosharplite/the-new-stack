@@ -18,6 +18,6 @@
 
 [Patterns for Composite Containers](http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html) , [video](https://www.youtube.com/watch?v=Ph3t8jIt894) (Brendan Burns, Google, June 29 2015)
 
-[Stacking Up The Next Modern Platform](http://www.theplatform.net/2015/10/16/stacking-up-a-modern-platform/) ([Joe Beda](http://www.geekwire.com/2015/joseph-beda/), 0xBEDA, Oct 16 2015)
+[Stacking Up The Next Modern Platform](https://www.nextplatform.com/2015/10/16/stacking-up-a-modern-platform/) ([Joe Beda](http://www.geekwire.com/2015/joseph-beda/), 0xBEDA, Oct 16 2015)
 
 [Kubernetes: What's New](https://speakerdeck.com/thockin) (Tim Hockin, Google, Nov 12 2015)
